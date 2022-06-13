@@ -1,3 +1,5 @@
+<img src="https://gw.alipayobjects.com/zos/antfincdn/R8sN%24GNdh6/language.svg" width="18"> [English](<(./README.en.md)>) | 简体中文
+
 ## GraphInsight 官方地址
 
 GraphInsight 是一款在线图可视分析产品，也是一款低代码的图分析应用研发工具，AntV 团队于 2022.06.06 正式对外开放。
